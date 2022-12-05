@@ -1,0 +1,13 @@
+{
+  "name": "my-test",
+  "main": "exe3.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch exe3.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^8.0.1",
+    "express": "^4.18.2",
+    "knex": "^2.3.0"
+  }
+}
